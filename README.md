@@ -1,4 +1,4 @@
-A complete repository of my projects i have done in my curiculum   
+A complete repository of my projects I have done in my curiculum   
 
 This includes :-
 <ul>
